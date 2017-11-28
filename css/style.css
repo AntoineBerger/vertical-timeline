@@ -154,11 +154,11 @@ header h1 {
   margin-left: -12px;
   margin-top: -12px;
 }
-.cd-timeline-img.cd-picture {
+.cd-timeline-img.disparition {
   background: #FF3333;
 }
-.cd-timeline-img.cd-movie {
-  background: #c03b44;
+.cd-timeline-img.pouvoirs {
+  background: #2aa9f8;
 }
 .cd-timeline-img.cd-location {
   background: #f0ca45;
